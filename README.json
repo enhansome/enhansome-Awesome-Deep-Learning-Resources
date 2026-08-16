@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T23:04:00Z",
+            "last_commit": "2026-08-16T23:16:28Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197047
+            "stars": 197087
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3489
+            "stars": 3485
           }
         },
         {
@@ -201,7 +201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:39:31.341Z",
+    "last_updated": "2026-08-16T23:39:03.211Z",
     "original_repository": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
     "original_repository_sha": "8e9af452654ccc64155d153e7a24d8a0d7bec570",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deep-Learning-Resources",
