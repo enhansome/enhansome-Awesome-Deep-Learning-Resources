@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T23:16:28Z",
+            "last_commit": "2026-08-17T23:37:21Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197087
+            "stars": 196990
           }
         },
         {
@@ -201,7 +201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:39:03.211Z",
+    "last_updated": "2026-08-17T23:41:41.996Z",
     "original_repository": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
     "original_repository_sha": "8e9af452654ccc64155d153e7a24d8a0d7bec570",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deep-Learning-Resources",
