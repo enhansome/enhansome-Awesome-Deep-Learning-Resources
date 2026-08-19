@@ -1,208 +1,203 @@
 {
   "items": [
     {
-      "description": "Here are the all-time Google Trends, from 2004 up to now, September 2017:\nYou might also want to look at Andrej Karpathy's new post about trends in Machine Learning research.\nI believe that Deep learning is the key to make computers think more like humans, and has a lot of potential. Some hard automation tasks can be solved easily with that while this was impossible to achieve earlier with classical algorithms.\nMoore's Law about exponential progress rates in computer science hardware is now more affecting GPUs than CPUs because of physical limits on how tiny an atomic transistor can be. We are shifting toward parallel architectures [read more]. Deep learning exploits parallel architectures as such under the hood by using GPUs. On top of that, deep learning algorithms may use Quantum Computing and apply to machine-brain interfaces in the future.\nI find that the key of intelligence and cognition is a very interesting subject to explore and is not yet well understood. Those technologies are promising.",
-      "items": [],
-      "title": "Trends"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Practical Resources"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "TensorFlow's GitHub repository",
-          "description": "Most known deep learning framework, both high-level and low-level while staying flexible.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T23:40:21Z",
-            "owner": "tensorflow",
-            "repo": "tensorflow",
-            "stars": 197047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LSTM for Human Activity Recognition (HAR)",
-          "description": "Tutorial of mine on using LSTMs on time series for classification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-06T17:53:06Z",
-            "owner": "guillaume-chevalier",
-            "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "skflow",
-          "description": "TensorFlow wrapper à la scikit-learn.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-08-30T20:14:47Z",
-            "owner": "tensorflow",
-            "repo": "skflow",
-            "stars": 3168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction",
-          "description": "Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-03-25T00:33:48Z",
-            "owner": "guillaume-chevalier",
-            "repo": "seq2seq-signal-prediction",
-            "stars": 1081
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "carpedm20/NTM-tensorflow",
-          "description": "Neural Turing Machine TensorFlow implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2017-05-18T06:31:02Z",
-            "owner": "carpedm20",
-            "repo": "NTM-tensorflow",
-            "stars": 1047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neuraxle, a framwework for machine learning pipelines",
-          "description": "The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-20T21:38:30Z",
-            "owner": "Neuraxio",
-            "repo": "Neuraxle",
-            "stars": 614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neuraxle",
-          "description": "Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-20T21:38:30Z",
-            "owner": "Neuraxio",
-            "repo": "Neuraxle",
-            "stars": 614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep stacked residual bidirectional LSTMs for HAR",
-          "description": "Improvements on the previous project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-06T17:59:14Z",
-            "owner": "guillaume-chevalier",
-            "repo": "HAR-stacked-residual-bidir-LSTMs",
-            "stars": 323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hyperopt for a Keras CNN on CIFAR-100",
-          "description": "Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-05-06T19:54:45Z",
-            "owner": "guillaume-chevalier",
-            "repo": "Hyperopt-Keras-CNN-CIFAR-100",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self Governing Neural Networks (SGNN): the Projection Layer",
-          "description": "With this, you can use words in your deep learning models without training nor loading embeddings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-06T18:11:21Z",
-            "owner": "guillaume-chevalier",
-            "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clean Machine Learning, a Coding Kata",
-          "description": "Learn the good design patterns to use for doing Machine Learning the good way, by practicing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-03T23:59:34Z",
-            "owner": "Neuraxio",
-            "repo": "Kata-Clean-Machine-Learning-From-Dirty-Code",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smoothly Blend Image Patches",
-          "description": "Smooth patch merger for semantic segmentation with a U-Net.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-08-25T20:33:26Z",
-            "owner": "guillaume-chevalier",
-            "repo": "Smoothly-Blend-Image-Patches",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TensorFlow's GitHub repository",
+              "description": "Most known deep learning framework, both high-level and low-level while staying flexible.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45717250,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:55:06Z",
+                "owner": "tensorflow",
+                "repo": "tensorflow",
+                "stars": 197060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LSTM for Human Activity Recognition (HAR)",
+              "description": "Tutorial of mine on using LSTMs on time series for classification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59073471,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-06T17:53:06Z",
+                "owner": "guillaume-chevalier",
+                "repo": "LSTM-Human-Activity-Recognition",
+                "stars": 3485
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skflow",
+              "description": "TensorFlow wrapper à la scikit-learn.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 46443613,
+                "language": "Python",
+                "last_commit": "2021-08-30T20:14:47Z",
+                "owner": "tensorflow",
+                "repo": "skflow",
+                "stars": 3168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction",
+              "description": "Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86853350,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-25T00:33:48Z",
+                "owner": "guillaume-chevalier",
+                "repo": "seq2seq-signal-prediction",
+                "stars": 1081
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "carpedm20/NTM-tensorflow",
+              "description": "Neural Turing Machine TensorFlow implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47695867,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-05-18T06:31:02Z",
+                "owner": "carpedm20",
+                "repo": "NTM-tensorflow",
+                "stars": 1047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neuraxle, a framwework for machine learning pipelines",
+              "description": "The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177868131,
+                "language": "Python",
+                "last_commit": "2026-02-20T21:38:30Z",
+                "owner": "Neuraxio",
+                "repo": "Neuraxle",
+                "stars": 614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neuraxle",
+              "description": "Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177868131,
+                "language": "Python",
+                "last_commit": "2026-02-20T21:38:30Z",
+                "owner": "Neuraxio",
+                "repo": "Neuraxle",
+                "stars": 614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep stacked residual bidirectional LSTMs for HAR",
+              "description": "Improvements on the previous project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74831258,
+                "language": "Python",
+                "last_commit": "2022-11-06T17:59:14Z",
+                "owner": "guillaume-chevalier",
+                "repo": "HAR-stacked-residual-bidir-LSTMs",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyperopt for a Keras CNN on CIFAR-100",
+              "description": "Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92616028,
+                "language": "Python",
+                "last_commit": "2018-05-06T19:54:45Z",
+                "owner": "guillaume-chevalier",
+                "repo": "Hyperopt-Keras-CNN-CIFAR-100",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Self Governing Neural Networks (SGNN): the Projection Layer",
+              "description": "With this, you can use words in your deep learning models without training nor loading embeddings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162636227,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-06T18:11:21Z",
+                "owner": "guillaume-chevalier",
+                "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean Machine Learning, a Coding Kata",
+              "description": "Learn the good design patterns to use for doing Machine Learning the good way, by practicing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246455669,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-03T23:59:34Z",
+                "owner": "Neuraxio",
+                "repo": "Kata-Clean-Machine-Learning-From-Dirty-Code",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smoothly Blend Image Patches",
+              "description": "Smooth patch merger for semantic segmentation with a U-Net.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101440205,
+                "language": "Python",
+                "last_commit": "2017-08-25T20:33:26Z",
+                "owner": "guillaume-chevalier",
+                "repo": "Smoothly-Blend-Image-Patches",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Librairies and Implementations"
         }
       ],
-      "title": "Librairies and Implementations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Other Math Theory"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "To the extent possible under law, Guillaume Chevalier has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Practical Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:41:46.720Z",
+    "last_updated": "2026-08-19T12:06:29.403Z",
     "original_repository": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
+    "original_repository_id": 74903728,
     "original_repository_sha": "8e9af452654ccc64155d153e7a24d8a0d7bec570",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deep-Learning-Resources",
     "enhanced_repository_description": null,

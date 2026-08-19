@@ -105,7 +105,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Librairies and Implementations
 
-* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 197,047 | 🐛 3,011 | 🌐 C++ | 📅 2026-08-18 - Most known deep learning framework, both high-level and low-level while staying flexible.
+* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 197,060 | 🐛 3,040 | 🌐 C++ | 📅 2026-08-19 - Most known deep learning framework, both high-level and low-level while staying flexible.
 * [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,485 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Tutorial of mine on using LSTMs on time series for classification.
 * [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived - TensorFlow wrapper à la scikit-learn.
 * [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,081 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
@@ -271,4 +271,4 @@ To the extent possible under law, [Guillaume Chevalier](https://github.com/guill
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
