@@ -105,7 +105,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Librairies and Implementations
 
-* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 197,060 | 🐛 3,040 | 🌐 C++ | 📅 2026-08-19 - Most known deep learning framework, both high-level and low-level while staying flexible.
+* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 197,068 | 🐛 3,087 | 🌐 C++ | 📅 2026-08-19 - Most known deep learning framework, both high-level and low-level while staying flexible.
 * [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,485 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Tutorial of mine on using LSTMs on time series for classification.
 * [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived - TensorFlow wrapper à la scikit-learn.
 * [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,081 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
@@ -132,7 +132,7 @@ Those are resources I have found that seems interesting to develop models onto.
 * [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot.
 * [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
 * [LibriSpeech ASR corpus](http://www.openslr.org/12/) - Huge free English speech dataset with balanced genders and speakers, that seems to be of high quality.
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,143 | 🐛 159 | 📅 2026-08-04 - An awesome list of public datasets.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,150 | 🐛 159 | 📅 2026-08-04 - An awesome list of public datasets.
 * [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/abs/1803.05449) - A Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 * [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476) - Another Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 
