@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:16:01Z",
+                "last_commit": "2026-08-24T14:07:30Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197375
+                "stars": 197384
               }
             },
             {
@@ -189,13 +189,112 @@
           "description": null,
           "node_type": "group",
           "title": "Librairies and Implementations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Public Datasets",
+              "description": "An awesome list of public datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-23T23:52:17Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78582
+              }
+            }
+          ],
+          "description": "Those are resources I have found that seems interesting to develop models onto.",
+          "node_type": "group",
+          "title": "Some Datasets"
         }
       ],
       "title": "Practical Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Filtering signal, plotting the STFT and the Laplace transform",
+              "description": "Simple Python demo on signal processing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79697464,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-08-21T01:08:06Z",
+                "owner": "guillaume-chevalier",
+                "repo": "filtering-stft-and-laplace-transform",
+                "stars": 67
+              }
+            }
+          ],
+          "description": "Okay, signal processing might not be directly related to deep learning, but studying it is interesting to have more intuition in developing neural architectures based on signal.",
+          "node_type": "group",
+          "title": "Complex Numbers & Digital Signal Processing"
+        }
+      ],
+      "title": "Other Math Theory"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Self-Governing Neural Networks for On-Device Short Text Classification",
+              "description": "This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my attempt to reproduce the paper in code and watch the talks' recording).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162636227,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-06T18:11:21Z",
+                "owner": "guillaume-chevalier",
+                "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Neuraxle",
+          "description": "An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340747702,
+            "language": null,
+            "last_commit": "2021-07-12T21:28:23Z",
+            "owner": "Neuraxio",
+            "repo": "Awesome-Neuraxle",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Misc. Hubs & Links"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:40:09.344Z",
+    "last_updated": "2026-08-24T14:08:06.436Z",
     "original_repository": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
     "original_repository_id": 74903728,
     "original_repository_sha": "8e9af452654ccc64155d153e7a24d8a0d7bec570",

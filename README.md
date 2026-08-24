@@ -105,7 +105,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Librairies and Implementations
 
-* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 197,375 | 🐛 2,947 | 🌐 C++ | 📅 2026-08-23 - Most known deep learning framework, both high-level and low-level while staying flexible.
+* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 197,384 | 🐛 2,932 | 🌐 C++ | 📅 2026-08-24 - Most known deep learning framework, both high-level and low-level while staying flexible.
 * [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,482 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Tutorial of mine on using LSTMs on time series for classification.
 * [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived - TensorFlow wrapper à la scikit-learn.
 * [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,081 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
@@ -128,11 +128,11 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 Those are resources I have found that seems interesting to develop models onto.
 
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,582 | 🐛 159 | 📅 2026-08-23 - An awesome list of public datasets.
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - TONS of datasets for ML.
 * [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot.
 * [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
 * [LibriSpeech ASR corpus](http://www.openslr.org/12/) - Huge free English speech dataset with balanced genders and speakers, that seems to be of high quality.
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,547 | 🐛 159 | 📅 2026-08-23 - An awesome list of public datasets.
 * [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/abs/1803.05449) - A Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 * [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476) - Another Python framework to benchmark your sentence representations on many datasets (NLP tasks).
 
@@ -165,12 +165,12 @@ Those are resources I have found that seems interesting to develop models onto.
 
 Okay, signal processing might not be directly related to deep learning, but studying it is interesting to have more intuition in developing neural architectures based on signal.
 
+* [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) ⭐ 67 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-08-21 - Simple Python demo on signal processing.
 * [Window Functions](https://en.wikipedia.org/wiki/Window_function) - Wikipedia page that lists some of the known window functions - note that the [Hann-Poisson window](https://en.wikipedia.org/wiki/Window_function#Hann%E2%80%93Poisson_window) is specially interesting for greedy hill-climbing algorithms (like gradient descent for example).
 * [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) - New look on Fourier analysis.
 * [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - Animations dealing with complex numbers and wave equations.
 * [Animate Your Way to Glory, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory/) - Convergence methods in physic engines, and applied to interaction design.
 * [Animate Your Way to Glory - Part II, Math and Physics in Motion](http://acko.net/blog/animate-your-way-to-glory-pt2/) - Nice animations for rotation and rotation interpolation with Quaternions, a mathematical object for handling 3D rotations.
-* [Filtering signal, plotting the STFT and the Laplace transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) ⭐ 68 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-08-21 - Simple Python demo on signal processing.
 
 <a name="papers" />
 
@@ -233,8 +233,8 @@ Okay, signal processing might not be directly related to deep learning, but stud
 
 ### Other
 
-* [ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections](https://arxiv.org/abs/1708.00630) - Replace word embeddings by word projections in your deep neural networks, which doesn't require a pre-extracted dictionnary nor storing embedding matrices.
 * [Self-Governing Neural Networks for On-Device Short Text Classification](http://aclweb.org/anthology/D18-1105) - This paper is the sequel to the ProjectionNet just above. The SGNN is elaborated on the ProjectionNet, and the optimizations are detailed more in-depth (also see my [attempt to reproduce the paper in code](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) ⭐ 22 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-06 and watch [the talks' recording](https://vimeo.com/305197775)).
+* [ProjectionNet: Learning Efficient On-Device Deep Networks Using Neural Projections](https://arxiv.org/abs/1708.00630) - Replace word embeddings by word projections in your deep neural networks, which doesn't require a pre-extracted dictionnary nor storing embedding matrices.
 * [Matching Networks for One Shot Learning](https://arxiv.org/abs/1606.04080) - Classify a new example from a list of other examples (without definitive categories) and with low-data per classification task, but lots of data for lots of similar classification tasks - it seems better than siamese networks. To sum up: with Matching Networks, you can optimize directly for a cosine similarity between examples (like a self-attention product would match) which is passed to the softmax directly. I guess that Matching Networks could probably be used as with negative-sampling softmax training in word2vec's CBOW or Skip-gram without having to do any context embedding lookups.
 
 <a name="youtube" />
@@ -255,11 +255,11 @@ Okay, signal processing might not be directly related to deep learning, but stud
 
 ## Misc. Hubs & Links
 
+* [Awesome Neuraxle](https://github.com/Neuraxio/Awesome-Neuraxle) ⭐ 3 | 🐛 0 | 📅 2021-07-12 - An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.
 * [Hacker News](https://news.ycombinator.com/news) - Maybe how I discovered ML - Interesting trends appear on that site way before they get to be a big deal.
 * [DataTau](http://www.datatau.com/) - This is a hub similar to Hacker News, but specific to data science.
 * [Naver](http://www.naver.com/) - This is a Korean search engine - best used with Google Translate, ironically. Surprisingly, sometimes deep learning search results and comprehensible advanced math content shows up more easily there than on Google search.
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/) - arXiv browser with TF/IDF features.
-* [Awesome Neuraxle](https://github.com/Neuraxio/Awesome-Neuraxle) ⭐ 3 | 🐛 0 | 📅 2021-07-12 - An awesome list for Neuraxle, a ML Framework for coding clean production-level ML pipelines.
 
 <a name="license" />
 
@@ -271,4 +271,4 @@ To the extent possible under law, [Guillaume Chevalier](https://github.com/guill
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
