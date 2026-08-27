@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T23:43:26Z",
+                "last_commit": "2026-08-27T04:27:47Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197632
+                "stars": 197642
               }
             },
             {
@@ -201,10 +201,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-25T16:12:04Z",
+                "last_commit": "2026-08-26T21:15:40Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78633
+                "stars": 78660
               }
             }
           ],
@@ -294,7 +294,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:43:54.531Z",
+    "last_updated": "2026-08-27T04:33:22.799Z",
     "original_repository": "guillaume-chevalier/Awesome-Deep-Learning-Resources",
     "original_repository_id": 74903728,
     "original_repository_sha": "8e9af452654ccc64155d153e7a24d8a0d7bec570",
