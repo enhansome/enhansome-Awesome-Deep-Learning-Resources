@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:23:11Z",
+                "last_commit": "2026-08-28T06:53:49Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197720
-              }
+                "stars": 197751
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "LSTM-Human-Activity-Recognition",
                 "stars": 3483
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "tensorflow",
                 "repo": "skflow",
                 "stars": 3168
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "seq2seq-signal-prediction",
                 "stars": 1081
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "carpedm20",
                 "repo": "NTM-tensorflow",
                 "stars": 1047
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Neuraxio",
                 "repo": "Neuraxle",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "Neuraxio",
                 "repo": "Neuraxle",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "HAR-stacked-residual-bidir-LSTMs",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "Hyperopt-Keras-CNN-CIFAR-100",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "Neuraxio",
                 "repo": "Kata-Clean-Machine-Learning-From-Dirty-Code",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "Smoothly-Blend-Image-Patches",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             }
           ],
           "description": null,
@@ -201,11 +213,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T21:15:40Z",
+                "last_commit": "2026-08-27T22:41:18Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78669
-              }
+                "stars": 78683
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             }
           ],
           "description": "Those are resources I have found that seems interesting to develop models onto.",
@@ -233,7 +246,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "filtering-stft-and-laplace-transform",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             }
           ],
           "description": "Okay, signal processing might not be directly related to deep learning, but studying it is interesting to have more intuition in developing neural architectures based on signal.",
@@ -261,7 +275,8 @@
                 "owner": "guillaume-chevalier",
                 "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:57:40.298Z"
             }
           ],
           "description": null,
@@ -287,14 +302,15 @@
             "owner": "Neuraxio",
             "repo": "Awesome-Neuraxle",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T06:57:40.298Z"
         }
       ],
       "title": "Misc. Hubs & Links"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:40.395Z",
+    "last_updated": "2026-08-28T06:57:40.298Z",
     "original_repository_info": {
       "archived": false,
       "id": 74903728,
