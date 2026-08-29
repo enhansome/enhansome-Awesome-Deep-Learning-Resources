@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Machine Learning Framework for Everyone",
+                "homepage": "https://tensorflow.org",
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T06:53:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:39:42Z",
+                "open_issues": 2957,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197751
+                "stars": 197768,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -28,12 +42,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Human Activity Recognition example using TensorFlow on smartphone sensors dataset and an LSTM RNN. Classifying the type of movement amongst six activity categories - Guillaume Chevalier",
+                "homepage": null,
                 "id": 59073471,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-06T17:53:06Z",
+                "open_issues": 22,
                 "owner": "guillaume-chevalier",
                 "repo": "LSTM-Human-Activity-Recognition",
-                "stars": 3483
+                "stars": 3483,
+                "topics": [
+                  "activity-recognition",
+                  "deep-learning",
+                  "human-activity-recognition",
+                  "lstm",
+                  "machine-learning",
+                  "neural-network",
+                  "recurrent-neural-networks",
+                  "rnn",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -44,12 +73,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning",
+                "homepage": null,
                 "id": 46443613,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T20:14:47Z",
+                "open_issues": 4,
                 "owner": "tensorflow",
                 "repo": "skflow",
-                "stars": 3168
+                "stars": 3167,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -60,12 +94,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier",
+                "homepage": null,
                 "id": 86853350,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-25T00:33:48Z",
+                "open_issues": 9,
                 "owner": "guillaume-chevalier",
                 "repo": "seq2seq-signal-prediction",
-                "stars": 1081
+                "stars": 1081,
+                "topics": [
+                  "python",
+                  "seq2seq",
+                  "tensorflow",
+                  "tensorflow-tutorials"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -76,12 +120,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Neural Turing Machine\" in Tensorflow",
+                "homepage": null,
                 "id": 47695867,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2017-05-18T06:31:02Z",
+                "open_issues": 11,
                 "owner": "carpedm20",
                 "repo": "NTM-tensorflow",
-                "stars": 1047
+                "stars": 1047,
+                "topics": [
+                  "neural-turing-machines",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -92,12 +144,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments.",
+                "homepage": "https://www.neuraxle.org/",
                 "id": 177868131,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-20T21:38:30Z",
+                "open_issues": 2,
                 "owner": "Neuraxio",
                 "repo": "Neuraxle",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "deep-learning",
+                  "framework",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "hyperparameters",
+                  "machine-learning",
+                  "neuraxle",
+                  "parallel",
+                  "pipeline",
+                  "pipeline-framework",
+                  "python-library",
+                  "scikit-learn"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -108,12 +179,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments.",
+                "homepage": "https://www.neuraxle.org/",
                 "id": 177868131,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-20T21:38:30Z",
+                "open_issues": 2,
                 "owner": "Neuraxio",
                 "repo": "Neuraxle",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "deep-learning",
+                  "framework",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "hyperparameters",
+                  "machine-learning",
+                  "neuraxle",
+                  "parallel",
+                  "pipeline",
+                  "pipeline-framework",
+                  "python-library",
+                  "scikit-learn"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -124,12 +214,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using deep stacked residual bidirectional LSTM cells (RNN) with TensorFlow, we do Human Activity Recognition (HAR). Classifying the type of movement amongst 6 categories or 18 categories on 2 different datasets.",
+                "homepage": "https://arxiv.org/abs/1708.08989",
                 "id": 74831258,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-06T17:59:14Z",
+                "open_issues": 3,
                 "owner": "guillaume-chevalier",
                 "repo": "HAR-stacked-residual-bidir-LSTMs",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "bidirectional-lstm-cells",
+                  "human-activity-recognition",
+                  "lstm",
+                  "residual-layers",
+                  "residual-lstm-cells",
+                  "rnn",
+                  "stacked-layers",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -140,12 +244,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-optimizing a neural net (and its architecture) on the CIFAR-100 dataset. Could be easily transferred to another dataset or another classification task.",
+                "homepage": null,
                 "id": 92616028,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-06T19:54:45Z",
+                "open_issues": 0,
                 "owner": "guillaume-chevalier",
                 "repo": "Hyperopt-Keras-CNN-CIFAR-100",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "cnn",
+                  "cnn-keras",
+                  "hyperopt",
+                  "hyperparameter-optimization",
+                  "hyperparameter-search",
+                  "hyperparameter-tuning",
+                  "hyperparameters-optimization",
+                  "keras",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -156,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attempt at reproducing a SGNN's projection layer, but with word n-grams instead of skip-grams. Paper and more: http://aclweb.org/anthology/D18-1105",
+                "homepage": "https://github.com/guillaume-chevalier/NLP-TP3",
                 "id": 162636227,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-11-06T18:11:21Z",
+                "open_issues": 1,
                 "owner": "guillaume-chevalier",
                 "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -172,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A coding exercise: let's convert dirty machine learning code into clean code using a Pipeline - which is the Pipe and Filter Design Pattern applied to Machine Learning.",
+                "homepage": null,
                 "id": 246455669,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-03T23:59:34Z",
+                "open_issues": 1,
                 "owner": "Neuraxio",
                 "repo": "Kata-Clean-Machine-Learning-From-Dirty-Code",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             },
@@ -188,12 +317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye.",
+                "homepage": null,
                 "id": 101440205,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-08-25T20:33:26Z",
+                "open_issues": 0,
                 "owner": "guillaume-chevalier",
                 "repo": "Smoothly-Blend-Image-Patches",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             }
@@ -211,12 +345,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:41:18Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78683
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             }
@@ -240,12 +384,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple demo of filtering signal with an LPF and plotting its Short-Time Fourier Transform (STFT) and Laplace transform, in Python. ",
+                "homepage": "https://www.neuraxio.com/",
                 "id": 79697464,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2018-08-21T01:08:06Z",
+                "open_issues": 1,
                 "owner": "guillaume-chevalier",
                 "repo": "filtering-stft-and-laplace-transform",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "butterworth",
+                  "butterworth-filter",
+                  "butterworth-filtering",
+                  "fft",
+                  "filter",
+                  "hanning-window",
+                  "laplace-transform",
+                  "lpf",
+                  "signal-processing",
+                  "stft"
+                ]
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             }
@@ -269,12 +429,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attempt at reproducing a SGNN's projection layer, but with word n-grams instead of skip-grams. Paper and more: http://aclweb.org/anthology/D18-1105",
+                "homepage": "https://github.com/guillaume-chevalier/NLP-TP3",
                 "id": 162636227,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-11-06T18:11:21Z",
+                "open_issues": 1,
                 "owner": "guillaume-chevalier",
                 "repo": "SGNN-Self-Governing-Neural-Networks-Projection-Layer",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
             }
@@ -296,12 +461,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list for resources on Neuraxle.",
+            "homepage": null,
             "id": 340747702,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2021-07-12T21:28:23Z",
+            "open_issues": 0,
             "owner": "Neuraxio",
             "repo": "Awesome-Neuraxle",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "machine-learning",
+              "neuraxle"
+            ]
           },
           "first_seen": "2026-08-28T06:57:40.298Z"
         }
@@ -310,15 +486,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:57:40.298Z",
+    "last_updated": "2026-08-29T04:13:35.228Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
+      "homepage": null,
       "id": 74903728,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-01-18T13:35:40Z",
+      "open_issues": 15,
       "owner": "guillaume-chevalier",
       "repo": "Awesome-Deep-Learning-Resources",
-      "stars": 1815
+      "stars": 1815,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cnn",
+        "deep-learning",
+        "lstm",
+        "machine-learning",
+        "tensorflow"
+      ]
     },
     "original_repository_sha": "8e9af452654ccc64155d153e7a24d8a0d7bec570",
     "enhanced_repository": "enhansome/enhansome-Awesome-Deep-Learning-Resources",
