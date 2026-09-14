@@ -17,11 +17,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T22:44:53Z",
+                "last_commit": "2026-09-13T20:56:07Z",
                 "open_issues": 3111,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 199741,
+                "stars": 200064,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -129,7 +129,7 @@
                 "open_issues": 11,
                 "owner": "carpedm20",
                 "repo": "NTM-tensorflow",
-                "stars": 1047,
+                "stars": 1046,
                 "topics": [
                   "neural-turing-machines",
                   "tensorflow"
@@ -223,7 +223,7 @@
                 "open_issues": 3,
                 "owner": "guillaume-chevalier",
                 "repo": "HAR-stacked-residual-bidir-LSTMs",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "bidirectional-lstm-cells",
                   "human-activity-recognition",
@@ -350,11 +350,11 @@
                 "id": 26898879,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:06:55Z",
+                "last_commit": "2026-09-13T14:41:26Z",
                 "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78930,
+                "stars": 78937,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:09:21.742Z",
+    "last_updated": "2026-09-14T01:13:41.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
