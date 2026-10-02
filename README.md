@@ -105,10 +105,10 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Librairies and Implementations
 
-* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 200,645 | 🐛 3,218 | 🌐 C++ | 📅 2026-10-01 - Most known deep learning framework, both high-level and low-level while staying flexible.
+* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 200,660 | 🐛 3,235 | 🌐 C++ | 📅 2026-10-02 - Most known deep learning framework, both high-level and low-level while staying flexible.
 * [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,485 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Tutorial of mine on using LSTMs on time series for classification.
 * [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived - TensorFlow wrapper à la scikit-learn.
-* [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,082 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
+* [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,083 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
 * [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,047 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - Neural Turing Machine TensorFlow implementation.
 * [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
@@ -128,7 +128,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 Those are resources I have found that seems interesting to develop models onto.
 
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,257 | 🐛 161 | 📅 2026-09-29 - An awesome list of public datasets.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,273 | 🐛 161 | 📅 2026-10-01 - An awesome list of public datasets.
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - TONS of datasets for ML.
 * [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot.
 * [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
@@ -271,4 +271,4 @@ To the extent possible under law, [Guillaume Chevalier](https://github.com/guill
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
