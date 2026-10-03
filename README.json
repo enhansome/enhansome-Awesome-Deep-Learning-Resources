@@ -17,8 +17,8 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T01:34:44Z",
-                "open_issues": 3239,
+                "last_commit": "2026-10-03T04:18:42Z",
+                "open_issues": 3242,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
                 "stars": 200668,
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:05:55.158Z",
+    "last_updated": "2026-10-03T04:25:56.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
