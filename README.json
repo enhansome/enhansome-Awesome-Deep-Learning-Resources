@@ -17,11 +17,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:18:42Z",
-                "open_issues": 3242,
+                "last_commit": "2026-10-03T22:44:20Z",
+                "open_issues": 3258,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200668,
+                "stars": 200681,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -354,7 +354,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79277,
+                "stars": 79296,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:56.476Z",
+    "last_updated": "2026-10-04T02:44:41.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
