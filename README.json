@@ -17,11 +17,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T02:14:26Z",
-                "open_issues": 3238,
+                "last_commit": "2026-10-08T02:20:13Z",
+                "open_issues": 3259,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200719,
+                "stars": 200735,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -51,7 +51,7 @@
                 "open_issues": 22,
                 "owner": "guillaume-chevalier",
                 "repo": "LSTM-Human-Activity-Recognition",
-                "stars": 3485,
+                "stars": 3486,
                 "topics": [
                   "activity-recognition",
                   "deep-learning",
@@ -82,7 +82,7 @@
                 "open_issues": 4,
                 "owner": "tensorflow",
                 "repo": "skflow",
-                "stars": 3164,
+                "stars": 3165,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:57:40.298Z"
@@ -351,10 +351,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-06T21:36:16Z",
-                "open_issues": 161,
+                "open_issues": 164,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79341,
+                "stars": 79375,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:28:39.683Z",
+    "last_updated": "2026-10-08T02:44:29.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
@@ -498,7 +498,7 @@
       "open_issues": 16,
       "owner": "guillaume-chevalier",
       "repo": "Awesome-Deep-Learning-Resources",
-      "stars": 1821,
+      "stars": 1820,
       "topics": [
         "awesome",
         "awesome-list",
