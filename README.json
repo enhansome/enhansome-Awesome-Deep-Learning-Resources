@@ -17,11 +17,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T01:30:34Z",
-                "open_issues": 3418,
+                "last_commit": "2026-10-16T01:23:48Z",
+                "open_issues": 3399,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200970,
+                "stars": 200986,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -51,7 +51,7 @@
                 "open_issues": 22,
                 "owner": "guillaume-chevalier",
                 "repo": "LSTM-Human-Activity-Recognition",
-                "stars": 3488,
+                "stars": 3487,
                 "topics": [
                   "activity-recognition",
                   "deep-learning",
@@ -354,7 +354,7 @@
                 "open_issues": 166,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79488,
+                "stars": 79516,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:33:57.485Z",
+    "last_updated": "2026-10-16T01:29:36.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier",
