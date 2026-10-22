@@ -105,13 +105,13 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Librairies and Implementations
 
-* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 201,159 | 🐛 3,449 | 🌐 C++ | 📅 2026-10-21 - Most known deep learning framework, both high-level and low-level while staying flexible.
+* [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) ⭐ 201,174 | 🐛 3,459 | 🌐 C++ | 📅 2026-10-22 - Most known deep learning framework, both high-level and low-level while staying flexible.
 * [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,489 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Tutorial of mine on using LSTMs on time series for classification.
 * [skflow](https://github.com/tensorflow/skflow) ⚠️ Archived - TensorFlow wrapper à la scikit-learn.
 * [Sequence to Sequence (seq2seq) Recurrent Neural Network (RNN) for Time Series Prediction](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) ⭐ 1,083 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2023-03-25 - Tutorial of mine on how to predict temporal sequences of numbers - that may be multichannel.
 * [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) ⭐ 1,047 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2017-05-18 - Neural Turing Machine TensorFlow implementation.
-* [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
-* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
+* [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 3 | 🌐 Python | 📅 2026-02-20 - The best framework for structuring and deploying your machine learning projects, and which is also compatible with most framework (e.g.: Scikit-Learn, TensorFlow, PyTorch, Keras, and so forth).
+* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 3 | 🌐 Python | 📅 2026-02-20 - Neuraxle is a Machine Learning (ML) library for building neat pipelines, providing the right abstractions to both ease research, development, and deployment of your ML applications.
 * [Deep stacked residual bidirectional LSTMs for HAR](https://github.com/guillaume-chevalier/HAR-stacked-residual-bidir-LSTMs) ⭐ 322 | 🐛 3 | 🌐 Python | 📅 2022-11-06 - Improvements on the previous project.
 * [Hyperopt for a Keras CNN on CIFAR-100](https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2018-05-06 - Auto (meta) optimizing a neural net (and its architecture) on the CIFAR-100 dataset.
 * [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) ⭐ 22 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-06 - With this, you can use words in your deep learning models without training nor loading embeddings.
@@ -128,7 +128,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 Those are resources I have found that seems interesting to develop models onto.
 
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,652 | 🐛 165 | 📅 2026-10-20 - An awesome list of public datasets.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 79,665 | 🐛 164 | 📅 2026-10-21 - An awesome list of public datasets.
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) - TONS of datasets for ML.
 * [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - This could be used for a chatbot.
 * [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - Question answering dataset that can be explored online, and a list of models performing well on that dataset.
@@ -271,4 +271,4 @@ To the extent possible under law, [Guillaume Chevalier](https://github.com/guill
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
